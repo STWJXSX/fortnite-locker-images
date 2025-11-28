@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/STWJXSX/Fortnite-Locker-Image.git"
+    "url": "git+https://github.com/STWJXSX/fortnite-locker-images.git"
   },
-  "homepage": "https://github.com/STWJXSX/Fortnite-Locker-Image",
+  "homepage": "https://github.com/STWJXSX/fortnite-locker-images",
   "author": "STWJXSX",
   "license": "GNU General Public License v3.0",
   "dependencies": {
