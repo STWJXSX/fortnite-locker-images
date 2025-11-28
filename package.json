@@ -1,0 +1,23 @@
+{
+  "name": "fn-locker-generator",
+  "version": "1.0.0",
+  "description": "Generates an image of the fortnite locker",
+  "type": "module",
+  "main": "ScriptExample.js",
+  "scripts": {
+    "start": "node ScriptExample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STWJXSX/Fortnite-Locker-Image.git"
+  },
+  "homepage": "https://github.com/STWJXSX/Fortnite-Locker-Image",
+  "author": "STWJXSX",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^16.0.2", 
+    "jimp": "^0.16.1",
+    "node-fetch": "^3.3.2"
+  }
+} 
